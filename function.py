@@ -1,0 +1,8 @@
+a=(14<=7)
+b=(14>=7)
+c=(14<7)
+d=(14>7)
+print(a)
+print(b)
+print(c)
+print(d)
